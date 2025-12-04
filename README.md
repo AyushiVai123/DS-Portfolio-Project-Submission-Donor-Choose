@@ -14,3 +14,6 @@ Gradio is utilized to create a user-friendly graphical user interface (GUI). One
 
 
 ![ezgif com-video-to-gif (1)](https://github.com/atharvnagrikar/DonorChooseFinalScaler/assets/111486339/76752950-38de-43a0-9ca5-1dedec9e2363)
+
+
+Medium Link: https://medium.com/@ayushivaishya199/donor-choose-3f669b405d34
